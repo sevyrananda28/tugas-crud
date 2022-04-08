@@ -1,0 +1,14 @@
+*{
+	padding: 0;
+	margin: 5px;
+}
+body {
+    background-image: linear-gradient(to right, #b09acc, #3a6ebd, 
+    #b6c4e4);
+    width: 500px;
+    margin: 50px auto;
+    color: white;
+}
+table {
+    width: 500px;
+}
